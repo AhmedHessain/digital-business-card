@@ -5,11 +5,10 @@ This project is a solo project task from Scrimba's React tutorial. It involves c
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Build](#Build)
 - [Credits](#credits)
-- [License](#license)
 
 ## Introduction
 
