@@ -1,0 +1,119 @@
+.parent-wrapper{
+    width: 550rem;
+    height: 868rem;
+    background-color: #23252C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child-wrapper{
+    border-radius: 10rem 10rem 0rem 0rem;
+    width: 317rem;
+    height: 780rem;
+    display: flex;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    flex-direction: column;   
+    overflow: hidden;
+}
+.image-section{
+    background-image: url('./assets/MyPhoto.jpg');
+    width: 317rem;
+    height: 317rem;
+    background-size: cover;
+    background-position: center;
+}
+.information-section{
+    background-color:#1A1B21;;
+}
+.info-name{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 25rem;
+    font-weight: 700;
+    margin: 0;
+    margin-top: 21rem;
+}
+.info-title{
+    color: #F3BF99;
+    text-align: center;
+    font-family: Inter;
+    font-size: 12.8rem;
+    margin: 0;
+    margin-top: 6.2rem;
+}
+.info-website-name{
+    color: #F5F5F5;
+    text-align: center;
+    font-family: Inter;
+    font-size: 10.24rem;
+    line-height: 150%; 
+    margin: 0;
+    margin-top: 8.81rem;
+}
+.buttons-wrapper{
+    margin-top: 15rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 17rem;
+}
+.buttons-wrapper > a{
+    text-decoration: none;
+    font-size: 14rem;
+    font-family: Inter;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8rem;
+    padding: 9rem 13rem 9rem 11rem;
+    border-radius: 6rem;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0rem 1rem 2rem 0rem rgba(0, 0, 0, 0.05);
+    width: 115rem;   
+}
+.buttons-wrapper > a:nth-child(1){
+    background: var(--white, #FFF);
+}
+.buttons-wrapper > a:nth-child(2){
+    background-color:#5093E2;
+    color:white
+}
+.sections-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 33px;
+}
+.about-section,.interests-section{
+    color: #DCDCDC;
+    width: 247rem;
+}
+.about-section > h1,.interests-section > h1{
+    margin: 0;
+    font-family: Inter;
+    font-size: 16rem;
+    line-height: 150%; 
+}
+.about-section > p,.interests-section > p{
+    margin: 0;
+    margin-top: 5px;
+    margin-bottom: 26px;
+    font-family: Inter;
+    font-size: 10.24rem;
+    line-height: 150%; 
+}
+.contacts-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 317px;
+    gap: 24px;
+    border-radius: 0px 0px 10px 10px;
+    background-color: #161619;
+    height: 64px;
+}
+.contacts-section>img{
+    cursor: pointer;
+}
