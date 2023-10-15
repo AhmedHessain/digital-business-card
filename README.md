@@ -15,12 +15,6 @@ This project is a solo project task from Scrimba's React tutorial. It involves c
 
 The Digital Business Card project aims to create a modern and interactive business card using React. It utilizes the design provided in the Figma file [here](https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0%3A1&mode=dev). By following the instructions and using the concepts learned in the Scrimba React tutorial [here](https://scrimba.com/learn/learnreact), you can build your own version of the digital business card.
 
-## Features
-
-- Responsive design that adapts to different screen sizes
-- Interactive components such as buttons and links
-- Integration of provided design elements from Figma
-- Customization options for personal information and branding
 
 ## Installation
 
@@ -40,6 +34,3 @@ The Digital Business Card project aims to create a modern and interactive busine
 - This project was completed as part of the Scrimba React tutorial: [Learn React JS - Free 11-Hour Course](https://scrimba.com/learn/learnreact)
 - The design for the digital business card was provided in the Figma file: [Digital Business Card Figma Design](https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0%3A1&mode=dev)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
