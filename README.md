@@ -18,14 +18,14 @@ The Digital Business Card project aims to create a modern and interactive busine
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/digital-business-card.git`
+1. Clone the repository: `git clone https://github.com/AhmedHessain/digital-business-card.git`
 2. Navigate to the project directory: `cd digital-business-card`
 3. Install the dependencies: `npm install`
 
 ## Usage
 
 1. Start the development server: `npm run dev`
-2. Open your browser and visit: `http://localhost:3000`
+2. Open your browser and visit the local host provided in terminal
 3. Customize the business card by modifying the relevant components and styles based on your preferences
 4. Preview the changes in real-time as you develop and make adjustments as needed
 
